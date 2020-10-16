@@ -1,0 +1,26 @@
+body{
+ background-color: pink;
+}
+h1{
+	background-color: pink;
+	color: black;
+	text-align: center;
+}
+fieldset
+{
+	width:300px;
+	margin: auto;
+}
+
+img{
+	display: block;
+	border: 5px solid black;
+	
+
+}
+
+p
+{
+
+text-align: center;
+}
